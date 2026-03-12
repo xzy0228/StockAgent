@@ -1,0 +1,9 @@
+streamlit
+akshare
+pandas
+numpy
+openai
+tavily-python
+chromadb
+pypdf
+plotly
